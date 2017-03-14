@@ -6,12 +6,10 @@
 
 using namespace std;
 
-class Chapter_01
+class Question_1_1
 {
 public:
 	void Run();
-
-private:
 	bool isUniqueChars(const string& str);
 	bool isUniqueChars2(const string& str);
 	string result(bool value);
