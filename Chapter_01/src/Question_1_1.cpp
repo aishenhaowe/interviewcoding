@@ -47,7 +47,7 @@ bool Question_1_1::isUniqueChars2(const string& str)
 	{
 		int value = str[i] - 'a';
 
-		if (char_set[i])
+		if (char_set[value])
 		{
 			return false;
 		}
