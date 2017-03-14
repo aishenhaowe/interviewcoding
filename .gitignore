@@ -30,6 +30,8 @@
 
 Debug
 ipch
+.vs
 
 *.sdf
 *.opensdf
+*.v12.suo

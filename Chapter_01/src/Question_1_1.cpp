@@ -1,7 +1,7 @@
-#include "Chapter_01.h"
+#include "Question_1_1.h"
 
 
-void Chapter_01::Run()
+void Question_1_1::Run()
 {
 	string str1 = "Hello";
 	cout << str1 << "---->" << result(this->isUniqueChars(str1)) << endl;
@@ -10,7 +10,7 @@ void Chapter_01::Run()
 	cout << str2 << "---->" << result(this->isUniqueChars2(str2)) << endl;
 }
 
-bool Chapter_01::isUniqueChars(const string& str)
+bool Question_1_1::isUniqueChars(const string& str)
 {
 	if (str.length() > 256)
 	{
@@ -34,7 +34,7 @@ bool Chapter_01::isUniqueChars(const string& str)
 	return true;
 }
 
-bool Chapter_01::isUniqueChars2(const string& str)
+bool Question_1_1::isUniqueChars2(const string& str)
 {
 	if (str.length() > 256)
 	{
@@ -58,7 +58,7 @@ bool Chapter_01::isUniqueChars2(const string& str)
 	return true;
 }
 
-string Chapter_01::result(bool value)
+string Question_1_1::result(bool value)
 {
 	string result = value ? "TRUE" : "FALSE";
 
