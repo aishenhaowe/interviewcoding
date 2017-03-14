@@ -84,7 +84,8 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Chapter_01_UT.cpp" />
+    <ClCompile Include="src\Question_1_1_UT.cpp" />
+    <ClCompile Include="src\Question_1_2_UT.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="inc\stdafx.h" />
