@@ -24,6 +24,9 @@
     <ClCompile Include="src\Question_1_1_UT.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Question_1_3_UT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="inc\stdafx.h">
