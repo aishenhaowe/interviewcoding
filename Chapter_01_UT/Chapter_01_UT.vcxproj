@@ -86,6 +86,7 @@
   <ItemGroup>
     <ClCompile Include="src\Question_1_1_UT.cpp" />
     <ClCompile Include="src\Question_1_2_UT.cpp" />
+    <ClCompile Include="src\Question_1_3_UT.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="inc\stdafx.h" />
