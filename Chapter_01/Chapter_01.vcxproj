@@ -86,12 +86,14 @@
     <ClCompile Include="src\Question_1_1.cpp" />
     <ClCompile Include="src\Question_1_2.cpp" />
     <ClCompile Include="src\Question_1_3.cpp" />
+    <ClCompile Include="src\Question_1_4.cpp" />
     <ClCompile Include="src\stdafx.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="inc\Question_1_1.h" />
     <ClInclude Include="inc\Question_1_2.h" />
     <ClInclude Include="inc\Question_1_3.h" />
+    <ClInclude Include="inc\Question_1_4.h" />
     <ClInclude Include="inc\stdafx.h" />
     <ClInclude Include="inc\targetver.h" />
   </ItemGroup>

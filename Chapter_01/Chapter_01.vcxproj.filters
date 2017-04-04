@@ -33,6 +33,9 @@
     <ClCompile Include="src\Question_1_3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Question_1_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="inc\Question_1_1.h">
@@ -48,6 +51,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="inc\Question_1_3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\Question_1_4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
